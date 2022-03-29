@@ -1,4 +1,4 @@
-# flutter_pertama
+# flutter_pertama Ryan Natanael
 
 A new Flutter project.
 
